@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TurismoTyC.iml" filepath="$PROJECT_DIR$/TurismoTyC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TURISMO-TYC.iml" filepath="$PROJECT_DIR$/TURISMO-TYC.iml" />
+      <module fileurl="file://C:\Users\alejandro\Desktop\TurismoTyC\TURISMO-TYC\TurismoTyC.iml" filepath="C:\Users\alejandro\Desktop\TurismoTyC\TURISMO-TYC\TurismoTyC.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

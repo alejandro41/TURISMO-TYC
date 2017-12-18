@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "585138851328",
+    "firebase_url": "https://turismo-tyc.firebaseio.com",
+    "project_id": "turismo-tyc",
+    "storage_bucket": "turismo-tyc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585138851328:android:3b5ee76baab7a9ee",
+        "android_client_info": {
+          "package_name": "com.example.alejandro.turismotyc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585138851328-0c952ke9ls98do4si9rt1lkqjhju93on.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alejandro.turismotyc",
+            "certificate_hash": "c2d7746425c8bcf73cc83bea65767fbb54ff4a9b"
+          }
+        },
+        {
+          "client_id": "585138851328-9caq7c5rtp45kvu2t62qd73rjt9hknhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtuM-YUwEeF_6AFTFdO9cMRw_egbwnUCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585138851328-9caq7c5rtp45kvu2t62qd73rjt9hknhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
